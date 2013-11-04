@@ -1,4 +1,4 @@
-podio-api-for-wordpress
+Podio API for Wordpress
 =======================
 
 This plugin makes the API available to Wordpress.
